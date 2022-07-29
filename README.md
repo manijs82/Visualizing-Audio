@@ -5,4 +5,4 @@
  this is my form of representing the audio
  ![example](./showcase.png)
  
- in the sample all audio files are loaded from the E:/Music folder and can be played.
+ in the sample scene all audio files are loaded from the E:/Music folder and can be played.
